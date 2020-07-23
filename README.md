@@ -9,3 +9,4 @@ Just a simple PiG_Game with two dices written in JavaScipt.
 4. BUT, if the player rolls a 1 on any one dice, all his ROUND score gets lost. After that, its the next player turn.
 5. The player can choose to Hold, which means that his ROUND score gets added to his GLOBAL score. After that, its the next player turn.
 6. The first player to reach <entered> points on GLOBAL score wins the game.')
+![ty](https://github.com/ramvr1256/Pig_Game_with_two_dice/blob/master/dice-5.png?raw=true)
